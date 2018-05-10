@@ -47,7 +47,7 @@ Case: use static method to authorize
 
 ```javascript
 const spreadsheetId = '1cEVGbJm3A8GGY4OpGrnpNDCQXs_rTWVZClECuDsCTzg';
-const Spreadsheets = require('google-spread-sheets');
+const Spreadsheets = require('google-sheets');
 
 const credentials = {
     "installed": {
